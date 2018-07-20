@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My AsyncTask</string>
+    <string name="status_aplikasi">Status aplikasi</string>
+</resources>
